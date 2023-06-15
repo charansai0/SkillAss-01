@@ -25,8 +25,8 @@ Step 7: Save and run the application.
 
 ## Program:
 ```
-Develped by : k sucharitha
-Reg no : 212221240021
+Develped by : v.charan sai
+Reg no : 212221240061
 ```
 ## MainActivity.java:
 ```
